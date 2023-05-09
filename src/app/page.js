@@ -18,7 +18,7 @@ export default function App() {
         ],
       },
     ],
-    supply: "10000",
+    supply: "",
   });
 
   return (
