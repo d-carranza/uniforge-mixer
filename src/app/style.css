@@ -1,0 +1,181 @@
+body {
+  /* background-color: #1c202b; */
+  color: #edeeee;
+  font-family: "Lexend Deca";
+}
+
+.mixer {
+  font-family: "Kodchasan";
+  font-weight: bolder;
+  vertical-align: middle;
+}
+
+#navbar {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.big-container {
+  margin-top: 25px;
+  padding-top: 18px;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+  border: solid;
+  border-color: #ffffff29;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+#header {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+#input {
+  margin-bottom: 30px;
+}
+
+.type {
+  border: solid;
+  border-color: #ffffff29;
+  border-radius: 8px;
+  border-width: 1px;
+  padding: 4px;
+}
+
+.typeheader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row {
+  display: flex;
+  margin: 0px;
+}
+
+.traits {
+  border: solid;
+  border-color: #ffffff29;
+  border-width: 1px;
+  height: 210px;
+  width: 160px;
+  margin-right: 4px;
+  padding: 4px;
+}
+
+.traitinputs {
+  margin-top: 0px;
+}
+
+.textinput {
+  background-color: #ffffff00;
+  color: #ffffff55;
+  border: solid;
+  border-color: #ffffff35;
+  border-radius: 3px;
+  border-width: 1px;
+  width: 100%;
+  height: 35px;
+  padding-left: 15px;
+  margin-bottom: 4px;
+}
+
+.pngPreview {
+  margin-left: -20px;
+  margin-top: -20px;
+  height: 118px;
+  width: 118px;
+}
+
+.removetrait {
+  margin-top: -125px;
+  margin-bottom: 100px;
+  text-align: right;
+}
+
+.traitinput {
+  width: 144px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.addtrait {
+  border: solid;
+  border-color: #ffffff29;
+  border-width: 1px;
+  background-color: #ffffff00;
+  color: #81e6d9;
+  height: 210px;
+  width: 160px;
+}
+
+.addtype {
+  background-color: #ffffff00;
+  color: #81e6d9;
+  border-width: 0px;
+  margin-top: 3px;
+}
+
+.removebtn {
+  border-width: 0px;
+  background-color: #e68181;
+  border-radius: 20px;
+  color: #1a202c;
+  height: 25px;
+  width: 25px;
+}
+
+#input-supply {
+  margin-bottom: 30px;
+}
+
+#supply {
+  border: solid;
+  border-color: #ffffff29;
+  border-radius: 8px;
+  border-width: 1px;
+  display: flex;
+  justify-content: center;
+  padding: 4px;
+}
+
+.session-btn {
+  background-color: #81e6d9;
+  color: #1a202c;
+  border-radius: 40px;
+  height: 40px;
+  width: 90px;
+  font-weight: bolder;
+}
+
+.session-link {
+  color: #81e6d9;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.app-btn {
+  background-color: #81e6d9;
+  color: #1a202c;
+  border-radius: 40px;
+  height: 40px;
+  width: 100%;
+  font-size: 16px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: bolder;
+}
+
+.footer {
+  color: #718096;
+  margin-top: 25px;
+  text-align: center;
+  font-size: 14px;
+}
