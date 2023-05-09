@@ -12,7 +12,7 @@ function Supply(props) {
 
   return (
     <div id="input-supply">
-      Choose your collection's supply:
+      Choose your collection supply:
       <div>
         <input
           type="number"
